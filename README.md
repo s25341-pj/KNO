@@ -10,6 +10,7 @@ Projekty dotyczą uczenia maszynowego opartego na TensorFlow.
 - [Zadanie 5: Klasyfikacja Wina 3](#zadanie-5-klasyfikacja-wina-3)
 - [Zadanie 6: Convolutional Neural Networks (CNN)](#zadanie-6-convolutional-neural-networks-cnn)
 - [Zadanie 7: Autoencoder](#zadanie-7-autoencoder)
+- [Zadanie 8: LSTM](#zadanie-8-lstm)
 
 ---
 
@@ -53,3 +54,5 @@ W tym zadaniu implementujemy sieć neuronową do klasyfikacji cyfr MNIST, wykorz
 Implementacja autoenkodera do redukcji wymiarowości i analizy struktury danych. Eksperymenty z różnymi konfiguracjami sieci oraz wizualizacja wyników rekonstrukcji danych.
 
 
+## Zadanie 8: LSTM
+Model oparty o LSTM który będzie przewidywał wartość funkcji po zadanych N krokach. Rysuje wykres sinusoidalny.
